@@ -1,8 +1,8 @@
 <template>
   <div class="container-fluid py-4">
     <div class="text-center mb-5 p-5 bg-gradient rounded-3" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
-      <h1 class="display-3 fw-bold text-white mb-2">Product Dashboard</h1>
-      <p class="lead text-white-50">Quản lý và theo dõi sản phẩm của bạn</p>
+      <h1 class="display-3 fw-bold mb-2" style="background: linear-gradient(135deg, #0d6efd 0%, #0dcaf0 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">Product Dashboard</h1>
+      <p class="lead" style="background: linear-gradient(135deg, #3d8bfd 0%, #6edff6 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">Quản lý và theo dõi sản phẩm của bạn</p>
     </div>
 
     <div v-if="selectedProduct" class="alert alert-primary d-flex align-items-center justify-content-between mb-4">
