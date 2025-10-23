@@ -5,7 +5,7 @@
     "price": 1199,
     "stock": 15,
     "status": "available",
-    "image": "https://via.placeholder.com/300x200/007bff/ffffff?text=MacBook+Air"
+    "image": "https://imobi.vn/wp-content/uploads/2022/07/macbook-air-starlight-gallery2-20220606_GEO_US.jpg"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "price": 999,
     "stock": 25,
     "status": "available",
-    "image": "https://via.placeholder.com/300x200/28a745/ffffff?text=iPhone+15"
+    "image": "https://www.apple.com/newsroom/images/2023/09/apple-unveils-iphone-15-pro-and-iphone-15-pro-max/tile/Apple-iPhone-15-Pro-lineup-hero-230912.jpg.news_app_ed.jpg"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "price": 1099,
     "stock": 0,
     "status": "out_of_stock",
-    "image": "https://via.placeholder.com/300x200/dc3545/ffffff?text=iPad+Pro"
+    "image": "https://www.duchuymobile.com/images/detailed/42/can-canh-ipad-pro-12-9-inch-m1-2021_n3a5-rj_bxg5-xj.jpeg"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "price": 249,
     "stock": 50,
     "status": "available",
-    "image": "https://via.placeholder.com/300x200/ffc107/ffffff?text=AirPods"
+    "image": "https://cdn.tgdd.vn/Products/Images/54/315014/tai-nghe-bluetooth-airpods-pro-2nd-gen-usb-c-charge-apple-1-750x500.jpg"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "price": 799,
     "stock": 12,
     "status": "available",
-    "image": "https://via.placeholder.com/300x200/17a2b8/ffffff?text=Watch+Ultra"
+    "image": "https://imobi.vn/wp-content/uploads/2023/10/MT653_VW_34FRwatch-49-titanium-ultra2_VW_34FRwatch-face-49-ocean-ultra2_VW_34FR-scaled.jpg"
   },
   {
     "id": 6,
@@ -45,7 +45,7 @@
     "price": 1999,
     "stock": 0,
     "status": "out_of_stock",
-    "image": "https://via.placeholder.com/300x200/6c757d/ffffff?text=Mac+Studio"
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/mac-studio-select-202503?wid=892&hei=820&fmt=jpeg&qlt=90&.v=TFF4TlZ2eUF4VmJBcXdGL1JqakhPRVEwUzFPbFJqRzRRVjVKc0grVGRsSElMQ1AwaTZodXpycCtPYXhhMHkvenIrSFUvMWdNSysyUDNqT0tTaFQrRWZ3Zm9pd0s0WHcyVkEyOHdaWlN6ZWs"
   },
   {
     "id": 7,
@@ -53,7 +53,7 @@
     "price": 99,
     "stock": 30,
     "status": "available",
-    "image": "https://via.placeholder.com/300x200/6f42c1/ffffff?text=HomePod"
+    "image": "https://product.hstatic.net/200000144777/product/capture_ac6f4271e21d43e89308aff3854c98f0_master.png"
   },
   {
     "id": 8,
@@ -61,6 +61,6 @@
     "price": 349,
     "stock": 20,
     "status": "available",
-    "image": "https://via.placeholder.com/300x200/fd7e14/ffffff?text=Keyboard"
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MXCL3?wid=4000&hei=4000&fmt=jpeg&qlt=90&.v=1728939673942"
   }
 ]
